@@ -1,0 +1,27 @@
+[
+    {
+        "user_id": 1,
+        "username": "Bob",
+        "user_email":"bob@gmail.com",
+        "user_status": 0
+    },
+    {
+        "user_id": 2,
+        "username": "Cleitin",
+        "user_email":"cleitin@gmail.com",
+        "user_status": 1
+    },
+    {
+        "user_id": 3,
+        "username": "ManoDeivin",
+        "user_email":"deivin@gmail.com",
+        "user_status": 1
+    },
+    {
+        "user_id": 4,
+        "username": "LucasMontano",
+        "user_email":"Montano@gmail.com",
+        "user_status": 0
+    }
+
+]
